@@ -47,6 +47,10 @@
 └── boot
 ```
 
+## Config Plist link
+
+- [Config.plist](https://github.com/gillesdubois/LouxarenRyzenToshConfig/blob/master/config.plist)
+
 ## Specific notes
 
 None, worked like a charm
