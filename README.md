@@ -1,9 +1,9 @@
 # LouxarenRyzenToshConfig
 
-## Open Core specs
+## Open Core specs
 
-Version : 0.5.4
-Mode : Debug
+- Version : 0.5.4
+- Mode : Debug
 
 ## Used references 
 
