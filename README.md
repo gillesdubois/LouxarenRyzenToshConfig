@@ -1,5 +1,15 @@
 # LouxarenRyzenToshConfig
 
+## Open Core specs
+
+Version : 0.5.4
+Mode : Debug
+
+## Used references 
+
+- https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/
+- AMD-OSX Discord 
+
 ## Build 
 
 | Component     | Model         |
