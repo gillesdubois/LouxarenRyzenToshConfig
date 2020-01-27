@@ -59,7 +59,8 @@
 
 ## Config Plist link
 
-- [Config.plist](https://github.com/gillesdubois/LouxarenRyzenToshConfig/blob/master/config.plist)
+- [DEBUG Config.plist](https://github.com/gillesdubois/LouxarenRyzenToshConfig/blob/master/config_debug.plist)
+- [RELEASE Config.plist](https://github.com/gillesdubois/LouxarenRyzenToshConfig/blob/master/config_release.plist)
 
 ## Specific notes
 
